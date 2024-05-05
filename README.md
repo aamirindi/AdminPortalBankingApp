@@ -35,8 +35,10 @@ The Admin Portal Banking App is a full-stack web application built with Java Spr
 3. **Frontend Setup**:
   - Navigate to the frontend directory.
   - Install dependencies using npm or yarn:
+    ```bash
     npm install
   - Start the React development server:
+    ```bash
     npm run dev
 ## Accessing the Application:
    Once both the backend and frontend servers are running, you can access the application at http://localhost:5173 in your web browser.
