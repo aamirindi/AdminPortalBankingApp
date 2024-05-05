@@ -23,11 +23,14 @@ The Admin Portal Banking App is a full-stack web application built with Java Spr
   - React Toastify: Library for displaying notifications in React applications.
   - Lottie: Library for adding animations to the user interface.
   - Vite: Frontend build tool for fast development and optimized production builds.
+ 
+## ScreenShots
+
 
 ## Getting Started
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/aamirindi/admin-portal-banking-app.git
+   git clone https://github.com/aamirindi/AdminPortalBankingApp.git
 2. **Backend Setup**:
   - Navigate to the backend directory.
   - Configure the MySQL database settings in the application.properties file.
