@@ -26,6 +26,19 @@ The Admin Portal Banking App is a full-stack web application built with Java Spr
  
 ## ScreenShots
 
+![image](https://github.com/aamirindi/AdminPortalBankingApp/assets/90147104/75f66701-2f85-4ee4-bcfc-3d38ad97a08c)
+
+![image](https://github.com/aamirindi/AdminPortalBankingApp/assets/90147104/0ce4ff99-b93c-44cb-960a-523386878c3a)
+
+![image](https://github.com/aamirindi/AdminPortalBankingApp/assets/90147104/3a7d09e0-bb06-4cf5-b212-85203f7db414)
+
+![image](https://github.com/aamirindi/AdminPortalBankingApp/assets/90147104/097d4488-0ddc-4b71-9b31-1e47512614f6)
+
+![image](https://github.com/aamirindi/AdminPortalBankingApp/assets/90147104/e7e2e3f4-944a-4ab4-9ea2-5fcd9e438651)
+
+![image](https://github.com/aamirindi/AdminPortalBankingApp/assets/90147104/759dbd9d-5f86-4369-9a57-cc106e7b1be1)
+
+![image](https://github.com/aamirindi/AdminPortalBankingApp/assets/90147104/68722c06-80c1-46f3-8f99-441e1bf61a44)
 
 ## Getting Started
 1. **Clone the Repository**: 
